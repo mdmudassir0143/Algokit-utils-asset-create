@@ -18,4 +18,4 @@ Follow these steps to set up the project:
 
 `algokit_utils` is a library that provides utility functions for working with Algorand blockchain applications. It simplifies common tasks and helps you manage your Algorand projects more efficiently.
 
-For more information, refer to the [algokit_utils documentation](https://github.com/algorandfoundation/algokit-utils-ts).
+For more information refer to the [algokit_utils documentation](https://github.com/algorandfoundation/algokit-utils-ts).

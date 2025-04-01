@@ -14,7 +14,7 @@ Follow these steps to set up the project:
     npm install
     ```
 
-## About algokit_utils
+## About algokit_utils 
 
 `algokit_utils` is a library that provides utility functions for working with Algorand blockchain applications. It simplifies common tasks and helps you manage your Algorand projects more efficiently.
 

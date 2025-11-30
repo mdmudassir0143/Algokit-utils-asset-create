@@ -3,7 +3,7 @@ import * as algokit from '@algorandfoundation/algokit-utils';
 import { Buffer } from 'buffer'; // If needed
 
 
-
+// Helper function to pause execution until user presses any key
 function keypress() {
     return new Promise((resolve) => {
       process.stdin.once('data', () => {
